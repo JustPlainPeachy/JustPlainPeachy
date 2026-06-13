@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi I'm Meaghan (aka Peachy) 👋
 
-<!--
-**JustPlainPeachy/JustPlainPeachy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create realistic and mutation concept skins for Path of Titans dinosaurs and creatures.
 
-Here are some ideas to get you started:
+## Tools
+- Krita
+- Blender basics
+- Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current/Recent Projects
+- Piebald Concept Skins
+- Leucistic Concept Skins
+
+## About Me
+I love nature and prehistoric life. I focus on natural color palletes, mutation concepts, and designs inspired by modern wildlife. 
+- 🔭 I’m currently working on mutation skin concepts
+- 🌱 I’m currently learning blender
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I've been playing Path of Titans since console launch! I've since played of PC and mobile as well!
+
