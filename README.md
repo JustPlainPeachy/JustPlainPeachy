@@ -7,7 +7,7 @@ I create realistic and mutation concept skins for Path of Titans dinosaurs and c
 - Blender basics
 - Canva
 
-## Current/Recent Projects
+## Current Projects
 - Piebald Concept Skins
 - Leucistic Concept Skins
 
